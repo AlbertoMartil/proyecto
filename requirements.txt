@@ -4,5 +4,5 @@ seaborn
 numpy
 matplotlib
 scikit-learn
-tensorflow
+tensorflow==2.13.00
 graphviz
